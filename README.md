@@ -36,7 +36,7 @@
 <img align="left" alt="ELK" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-elasticsearch-logo-svg-vector.svg" />
 
 ---
-<img align="left" alt="Docker" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVnKWDLT_iuxFCfDhAVgxsCNS9XgN5ZsbXFw&usqp=CAU" />
+<img align="left" alt="Docker" width="26px" src="https://www.clipartmax.com/png/middle/240-2400648_docker-container-logo-png.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />

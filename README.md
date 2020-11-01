@@ -1,4 +1,4 @@
-### Hi there, I'm Arif Wicaksono 👋
+### Hi there, I'm Arif Wicaksono <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Developer !!
 
@@ -46,9 +46,9 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>📈 GitHub Stats</summary>
 
-  <img align="left" alt="Arif9878's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Arif9878&show_icons=true&hide_border=true" />
+  <p align="center"> <img alt="Arif9878's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Arif9878&show_icons=true&theme=gotham&hide_border=true" /><p/>
 
 </details>
 

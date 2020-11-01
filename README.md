@@ -1,11 +1,15 @@
 ### Hi there, I'm Arif Wicaksono <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<br />
+
   <img align="right" alt="GIF" src="https://github.com/Arif9878/Arif9878/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Developer !!
 
 - 👨🏽‍💻 I’m currently working on something cool;
 - 🌱 I’m currently learning Service Mesh and TensorFlow;
+
+<br />
 
 ### Spotify Playing 🎧
 

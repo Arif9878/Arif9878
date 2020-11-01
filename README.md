@@ -2,7 +2,8 @@
 
 ## I'm a Developer !!
 
-- 🌱 I’m currently learning everything 🤣
+- 👨🏽‍💻 I’m currently working on something cool;
+- 🌱 I’m currently learning Service Mesh and TensorFlow;
 
 ### Spotify Playing 🎧
 

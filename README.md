@@ -49,12 +49,12 @@
 
 ---
 
-<details>
-  <summary>📈 GitHub Stats</summary>
+<!-- <details>
+  <summary>📈 GitHub Stats</summary> -->
 
-  <p align="center"> <img alt="Arif9878's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Arif9878&show_icons=true&theme=gotham&hide_border=true" /><p/>
+<p align="center"> <img alt="Arif9878's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Arif9878&show_icons=true&theme=gotham&hide_border=true" /><p/>
 
-</details>
+<!-- </details> -->
 
 [website]: https://google.com
 [course]: http://google.com

@@ -39,7 +39,7 @@
 <code><img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
 <code><img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></code>
 <code><img align="left" alt="ELK" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-elasticsearch-logo-svg-vector.svg" /></code>
-<code><img align="left" alt="Docker" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTifHFsCJ8oYEGD4vD61ZoYlvF3v-QuUYYCeQ&usqp=CAU" /></code>
+<code><img align="left" alt="Docker" width="26px" src="https://p1.hiclipart.com/preview/96/77/258/cloud-logo-docker-software-deployment-devops-virtual-machine-microservices-anaconda-rightscale-png-clipart.jpg" /></code>
 <code><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 <code><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>

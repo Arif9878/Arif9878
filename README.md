@@ -51,8 +51,12 @@
 
 <!-- <details>
   <summary>📈 GitHub Stats</summary> -->
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Arif9878&show_icons=true&theme=gotham&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif9878&layout=compact" />
+</div>
 
-<p align="center"> <img alt="Arif9878's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Arif9878&show_icons=true&theme=gotham&hide_border=true" /><p/>
+<!-- <p align="center"> <img alt="Arif9878's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Arif9878&show_icons=true&theme=gotham&hide_border=true" /><p/> -->
 
 <!-- </details> -->
 

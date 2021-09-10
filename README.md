@@ -5,7 +5,7 @@
 ## I'm a Developer !!
 
 - 👨🏽‍💻 I’m currently working on something cool;
-- 🌱 I’m currently learning Service Mesh and TensorFlow;
+<!-- - 🌱 I’m currently learning Service Mesh and TensorFlow; -->
 
 <br />
 
